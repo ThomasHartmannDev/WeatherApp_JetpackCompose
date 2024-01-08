@@ -8,7 +8,7 @@ class Const {
             //android.Manifest.permission.ACCESS_BACKGROUND_LOCATION,
             //android.Manifest.permission.INTERNET,
         )
-        const val openWeatherMapApiKey = "f4d4c50ae02a27e6d080810bf159dbde";
+        const val openWeatherMapApiKey = "YOUR_API_KEY_HERE";
 
         const val colorBg1 = 0xff08203e;
         const val colorBg2 = 0xff557c93;
