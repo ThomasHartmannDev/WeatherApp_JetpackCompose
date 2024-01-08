@@ -41,10 +41,9 @@ Follow these steps to install WeatherApp_JetpackCompose on your device:
 
 ## Screenshots
 
-![Screenshot 1](/Screenshots/Screen_Recording_20240108_141454_WeatherApp-ezgif.com-video-to-gif-converter.gif)
-![Screenshot 2](/Screenshots/Screenshot_20240108_141249_WeatherApp.png)
-![Screenshot 3](/Screenshots/Screenshot_20240108_141318_WeatherApp.png)
-
+<img src="/Screenshots/Screen_Recording_20240108_141454_WeatherApp-ezgif.com-video-to-gif-converter.gif" alt="Screenshot 1" width="200"/>
+<img src="/Screenshots/Screenshot_20240108_141249_WeatherApp.png" alt="Screenshot 2" width="200"/>
+<img src="/Screenshots/Screenshot_20240108_141318_WeatherApp.png" width="200"/>
 ## License
 
 WeatherApp_JetpackCompose is licensed under the [MIT License](LICENSE). Feel free to use and modify the code for your own purposes.
