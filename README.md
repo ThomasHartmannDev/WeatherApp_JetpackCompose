@@ -42,8 +42,8 @@ Follow these steps to install WeatherApp_JetpackCompose on your device:
 ## Screenshots
 
 <p float="left">
-   <img src="/Screenshots/Screen_Recording_20240108_141454_WeatherApp-ezgif.com-video-to-gif-converter.gif" alt="Screenshot 1" width="200"/> &nbsp;&nbsp
-   <img src="/Screenshots/Screenshot_20240108_141249_WeatherApp.png" alt="Screenshot 2" width="200"/> &nbsp;&nbsp
+   <img src="/Screenshots/Screen_Recording_20240108_141454_WeatherApp-ezgif.com-video-to-gif-converter.gif" alt="Screenshot 1" width="200"/> &nbsp; &nbsp &nbsp; &nbsp
+   <img src="/Screenshots/Screenshot_20240108_141249_WeatherApp.png" alt="Screenshot 2" width="200"/> &nbsp; &nbsp &nbsp; &nbsp
    <img src="/Screenshots/Screenshot_20240108_141318_WeatherApp.png" width="200"/>
 </p>
 
